@@ -1,6 +1,8 @@
 # Unified Search + Actions, using Semantic Search with FileMaker 2024
 Demo tutorial file packaged as Beezwax Unified Search.fmp12
+
 Requires FileMaker 2024 (v21.x)
+
 Note: This demo tutorial (Beezwax Unified Search **+ Actions**) is different from the more basic tutorial (Beezwax Unified Search).
 
 ## Introduction
