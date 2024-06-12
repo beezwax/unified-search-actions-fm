@@ -8,7 +8,7 @@ Note: This demo tutorial (Beezwax Unified Search **+ Actions**) is different fro
 ## Introduction
 FileMaker 2024 delivers native semantic search, and it’s awesome. Now you can search records whose text is similar to the semantic meaning of your search term, even if those records don’t include your exact search term. Using natural language, users can be freed from trying to recall exactly how data was input.
 
-The tutorial files (and the reference blog posts) explore implementing semantic search in FileMaker, using the 'Perform Semantic Find' script step. The 'CosineSimilarity' function helps expose how (semantically) similar each result is to a user's search term. The 'Set AI Call Logging' script step reveals what information these steps are passing to and receiving from your selected model. 
+The demo/tutorial files (and the reference blog posts) explore implementing semantic search in FileMaker, using the 'Perform Semantic Find' script step. The 'CosineSimilarity' function helps expose how (semantically) similar each result is to a user's search term. The 'Set AI Call Logging' script step reveals what information these steps are passing to and receiving from your selected model. 
 
 A basic example of "unified search" shows how a find across multiple tables, using natural language to construct a semantic search.
 
